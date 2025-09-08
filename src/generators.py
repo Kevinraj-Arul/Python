@@ -1,4 +1,4 @@
-#generator
+#generators
 def number(n):
     for i in range(n):
         yield i
